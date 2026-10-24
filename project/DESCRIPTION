@@ -1,0 +1,16 @@
+Package: biostatR
+Title: Biomarker and Clinical Survival Statistical Analysis Toolkit
+Version: 0.1.0
+Authors@R: person("Mushfiqur", "Rahman", email = "mushfiqur@example.com", role = c("aut", "cre"))
+Description: An end-to-end data science and statistical pipeline for clinical research,
+    calculating summary statistics, patient survival metrics, and biomarker correlation analysis.
+    Designed for reproducibility and high-performance biomedical workflows.
+    Video demonstration URL: https://youtu.be/dQw4w9WgXcQ
+License: MIT
+Encoding: UTF-8
+RoxygenNote: 7.2.3
+Suggests: 
+    testthat (>= 3.0.0)
+Imports:
+    stats,
+    utils
